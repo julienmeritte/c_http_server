@@ -1,0 +1,14 @@
+### Generated project files ###
+a.out
+httpserver
+units_test
+compile_commands.json
+*.gcno
+*.gcda
+
+.testing/output
+
+### IDE settings ###
+.fleet/*
+.vscode/*
+.idea/*

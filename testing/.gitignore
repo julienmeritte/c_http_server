@@ -1,0 +1,11 @@
+### Generated project files ###
+a.out
+httpserver
+compile_commands.json
+
+.testing/output
+
+### IDE settings ###
+.fleet/*
+.vscode/*
+.idea/*
